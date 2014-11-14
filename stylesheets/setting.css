@@ -1,0 +1,30 @@
+.setting-sprite, .setting-compass, .setting-github, .setting-qq, .setting-weibo {
+  background-image: url('../images/setting-s5a4bedd975.png');
+  background-repeat: no-repeat;
+}
+
+.setting-compass {
+  background-position: -5px 0;
+}
+
+.setting-github {
+  background-position: -5px -40px;
+}
+
+.setting-qq {
+  background-position: -5px -68px;
+}
+
+.setting-weibo {
+  background-position: -10px -102px;
+}
+
+.error {
+  color: #333;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.error {
+  color: #f00;
+}

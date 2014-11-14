@@ -1,0 +1,5 @@
+@import "compass/utilities/sprites";
+@import "share/*.png";
+.test {
+	@include share-sprite(qq);
+}

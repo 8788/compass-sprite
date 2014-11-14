@@ -1,0 +1,8 @@
+.share-sprite, .test {
+  background-image: url('../images/share-s7fefca4b98.png');
+  background-repeat: no-repeat;
+}
+
+.test {
+  background-position: 0 -23px;
+}

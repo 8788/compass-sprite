@@ -1,0 +1,14 @@
+.magic-sprite, .magic-weibo {
+  background-image: url('../images/magic-s758f6928e8.png');
+  background-repeat: no-repeat;
+}
+
+.magic-weibo {
+  background-position: 0 0;
+}
+.magic-weibo:hover, .magic-weibo.weibo-hover {
+  background-position: 0 -48px;
+}
+.magic-weibo:active, .magic-weibo.weibo-active {
+  background-position: 0 -24px;
+}

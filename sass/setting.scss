@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+// 配置间距
+$setting-spacing: 5px;
+$setting-weibo-spacing: 10px;
+
+// 配置位置
+$setting-position: 5px;
+$setting-weibo-position: 10px;
+
+@import "compass/utilities/sprites";
+@import "setting/*.png";
+@include all-setting-sprites;
+
+
+	%text {
+		color: #333;
+		font-size: 14px;
+		margin: 10px 0;
+	}
+	.error {
+		@extend %text;
+		color: #f00;
+	}
