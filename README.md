@@ -2,4 +2,4 @@
 
 文章地址
 
-> [http://riny.net/2014/compass-sprite/](http://riny.net/2014/compass-sprite/)
+[https://github.com/8788/blog/issues/8](https://github.com/8788/blog/issues/8)

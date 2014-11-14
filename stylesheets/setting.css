@@ -1,28 +1,28 @@
 .setting-sprite, .setting-compass, .setting-github, .setting-qq, .setting-weibo {
-  background-image: url('../images/setting-sf4a067ed4f.png');
+  background-image: url('../images/setting-s5a4bedd975.png');
   background-repeat: no-repeat;
 }
 
 .setting-compass {
-  background-position: 0 -24px;
+  background-position: -5px 0;
   height: 35px;
   width: 200px;
 }
 
 .setting-github {
-  background-position: 0 0;
+  background-position: -5px -40px;
   height: 23px;
   width: 24px;
 }
 
 .setting-qq {
-  background-position: -48px 0;
+  background-position: -5px -68px;
   height: 24px;
   width: 24px;
 }
 
 .setting-weibo {
-  background-position: -24px 0;
+  background-position: -10px -102px;
   height: 24px;
   width: 24px;
 }

@@ -9,7 +9,7 @@ $setting-position: 5px;
 $setting-weibo-position: 10px;
 
 // 配置sprite的布局方式
-$setting-layout: smart;
+$setting-layout: vertical;  // vertical/horizontal/diagonal/smart
 
 // 自动输出尺寸
 $setting-sprite-dimensions: true;
