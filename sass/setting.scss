@@ -8,6 +8,20 @@ $setting-weibo-spacing: 10px;
 $setting-position: 5px;
 $setting-weibo-position: 10px;
 
+// 配置sprite的布局方式
+$setting-layout: smart;
+
+// 自动输出尺寸
+$setting-sprite-dimensions: true;
+
 @import "compass/utilities/sprites";
 @import "setting/*.png";
 @include all-setting-sprites;
+
+
+// 测试此段代码时应将$setting-sprite-dimensions值设为false
+// .special {
+// 	@include setting-sprite(compass);
+// 	width: setting-sprite-width(compass);
+// 	height: setting-sprite-height(compass);
+// }
